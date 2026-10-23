@@ -22,7 +22,7 @@ Python · XGBoost · SMOTE · SHAP · Streamlit
 - **Explainability: SHAP per-customer**
 
 ## 🚀 Try It Live
-👉 [Interactive Predictor](YOUR_STREAMLIT_URL_HERE)
+👉 [Interactive Predictor](https://yourusername-telco-churn.streamlit.app)
 
 ## 📊 Screenshots
 ![Contract Churn](screenshots/contract.png)
